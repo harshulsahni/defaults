@@ -1,0 +1,10 @@
+set expandtab
+set tabstop=4
+set number
+set smartindent
+set relativenumber
+set nu
+set nowrap
+set hidden
+set incsearch
+syntax on
